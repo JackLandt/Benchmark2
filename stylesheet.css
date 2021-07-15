@@ -1,0 +1,31 @@
+html{
+  scroll-behavior: smooth;
+}
+.banner-image{
+  background-image: url("1.jpeg");
+  background-size:cover;
+}
+header{
+  font-size: 20px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-size:15px;
+  font-family: "poppins";
+  line-height:20px;
+  color: #b1b4bd;
+  /*background-image: url(1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;*/
+}
+a{
+  color:#66D3FA;
+  font-weight: 500;
+}
+a:hover{
+  text-decoration: none;
+  color:#66D3FA;
+}
